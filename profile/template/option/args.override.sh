@@ -40,7 +40,7 @@ REF_LIVE_PACKAGE_REPO_URL="http://archive.ubuntu.com/ubuntu/"
 ## ## REF_BUILD_VERSION
 ##
 
-REF_BUILD_VERSION="0.0.1"
+REF_BUILD_VERSION="25.04"
 
 
 
@@ -51,7 +51,7 @@ REF_BUILD_VERSION="0.0.1"
 ## > for iso file name
 ##
 
-REF_BUILD_SUBJECT_NAME="ubuntu"
+REF_BUILD_SUBJECT_NAME="ubuntu-xfce"
 
 
 
@@ -62,7 +62,7 @@ REF_BUILD_SUBJECT_NAME="ubuntu"
 ## > for info
 ##
 
-REF_BUILD_SUBJECT_TITLE="Ubuntu"
+REF_BUILD_SUBJECT_TITLE="Ubuntu Xfce"
 
 
 
