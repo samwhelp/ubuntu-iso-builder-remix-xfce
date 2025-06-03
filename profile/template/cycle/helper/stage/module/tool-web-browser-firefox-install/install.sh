@@ -87,7 +87,7 @@ sys_firefox_ppa_repository_add () {
 sys_apt_preferences_config_firefox () {
 
 
-cat << __EOF__ | tee /etc/apt/preferences.d/mozilla-firefox
+cat << __EOF__ | tee /etc/apt/preferences.d/mozilla-firefox.conf
 Package: *
 Pin: release o=LP-PPA-mozillateam
 Pin-Priority: 1001
@@ -101,9 +101,9 @@ __EOF__
 
 
 	util_error_echo
-	util_error_echo cat /etc/apt/preferences.d/mozilla-firefox
+	util_error_echo cat /etc/apt/preferences.d/mozilla-firefox.conf
 	util_error_echo
-	cat /etc/apt/preferences.d/mozilla-firefox
+	cat /etc/apt/preferences.d/mozilla-firefox.conf
 
 
 	return 0
