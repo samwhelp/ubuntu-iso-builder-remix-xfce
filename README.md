@@ -15,9 +15,21 @@
 
 ## Subject
 
+* [Config](#config)
 * [Howto](#howto)
 * [Respin](#respin)
 * [Link](#link)
+
+
+
+
+## Config
+
+| Config |
+| ------ |
+| [~/.config](https://github.com/samwhelp/ubuntu-iso-builder-remix-xfce/tree/main/profile/template/asset/overlay/etc/skel/.config) |
+| [/usr/share/glib-2.0/schemas](https://github.com/samwhelp/ubuntu-iso-builder-remix-xfce/tree/main/profile/template/asset/overlay/usr/share/glib-2.0/schemas) |
+| [/etc/dconf/db/distro.d](https://github.com/samwhelp/ubuntu-iso-builder-remix-xfce/tree/main/profile/template/asset/overlay/etc/dconf/db/distro.d) |
 
 
 
