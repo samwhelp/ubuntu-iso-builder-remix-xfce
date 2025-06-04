@@ -123,7 +123,7 @@ make build
 
 | Link | GitHub |
 | ---- | ------ |
-| [Ubuntu / Xfce / Adjustment](https://samwhelp.github.io/ubuntu-xfce-adjustment/) | [GitHub](https://github.com/samwhelp/ubuntu-xfce-adjustment) |
-| [Ubuntu / Xfce / Note](https://samwhelp.github.io/note-about-ubuntu-xfce/) | [GitHub](https://github.com/samwhelp/note-about-ubuntu-xfce) |
+| [Xubuntu / Adjustment](https://samwhelp.github.io/xubuntu-adjustment/) | [GitHub](https://github.com/samwhelp/xubuntu-adjustment) |
+| [Xubuntu / Note](https://samwhelp.github.io/note-about-xubuntu/) | [GitHub](https://github.com/samwhelp/note-about-xubuntu) |
 | [Ubuntu / Adjustment](https://samwhelp.github.io/ubuntu-adjustment/) | [GitHub](https://github.com/samwhelp/ubuntu-adjustment) |
 | [Ubuntu / Note](https://samwhelp.github.io/note-about-ubuntu/) | [GitHub](https://github.com/samwhelp/note-about-ubuntu) |
