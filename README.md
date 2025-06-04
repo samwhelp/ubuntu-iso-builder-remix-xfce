@@ -5,9 +5,9 @@
 | Link | GitHub |
 | ---- | ------ |
 | [ubuntu-iso-builder-template](https://samwhelp.github.io/ubuntu-iso-builder-template/) | [GitHub](https://github.com/samwhelp/ubuntu-iso-builder-template) |
-|  | `+` |
+| `+` | `+` |
 | [ubuntu-iso-builder-remix-xfce](https://samwhelp.github.io/ubuntu-iso-builder-remix-xfce/) | [GitHub](https://github.com/samwhelp/ubuntu-iso-builder-remix-xfce) |
-|  | `=` |
+| `=` | `=` |
 | [ubuntu-iso-builder-respin-xfce](https://samwhelp.github.io/ubuntu-iso-builder-respin-xfce/) | [GitHub](https://github.com/samwhelp/ubuntu-iso-builder-respin-xfce) |
 
 
