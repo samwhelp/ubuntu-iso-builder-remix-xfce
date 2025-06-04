@@ -26,7 +26,7 @@
 
 * [Prepare](#prepare)
 * [Combine](#combine)
-* [Build](#build-all)
+* [Build](#build)
 
 
 
